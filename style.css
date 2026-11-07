@@ -6,7 +6,7 @@
 
 body {
     font-family: Tahoma, Arial, sans-serif;
-    background: #252936;
+    background: #a1a7b9;
     min-height: 100vh;
 
     display: flex;
@@ -62,7 +62,7 @@ body {
     right: 0;
     width: 100%;
 
-    background: rgba(20, 25, 40, 0.75);
+    background: rgba(24, 32, 56, 0.75);
     color: white;
 
     padding: 20px;
